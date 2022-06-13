@@ -1,4 +1,4 @@
-package y2022_06_13_1;
+package y2022_06_13;
 
 import java.util.*;
 

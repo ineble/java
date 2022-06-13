@@ -1,0 +1,5 @@
+package class_practice1;
+
+public class KoreanExample {
+	Korean k1 = new Korean( "박자바", null)
+}

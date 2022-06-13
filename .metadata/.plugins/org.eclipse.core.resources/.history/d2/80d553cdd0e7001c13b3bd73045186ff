@@ -1,0 +1,6 @@
+package y2022_06_09.copy;
+
+public class RemoteControl {
+	public void turnOn();
+	public void tunrOff();
+}

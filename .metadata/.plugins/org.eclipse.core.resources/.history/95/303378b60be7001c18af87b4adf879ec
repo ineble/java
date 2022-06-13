@@ -1,0 +1,5 @@
+package y2022_06_08;
+
+public class Animal extends NonVehicle {
+	
+}

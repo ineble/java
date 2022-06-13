@@ -1,0 +1,19 @@
+package y2022_06_07;
+
+public class SmartTelevisionExample {
+
+	public static void main(String[] args) {
+		SmartTelevision tv = new SmartTelevision();
+		tv.turnOn();
+		tv.setVolume(8);
+		tv.turnOff();
+		tv.search("mbc");
+		RemoteControl rc = tv;
+		rc.turnOn();
+		rc.setVolume(8);
+		rc.turnOff();
+		Searchable sc = tv;
+		sc.search("mbc");
+	}
+
+}

@@ -1,0 +1,20 @@
+package y2022_06_09;
+
+public class TryCatchFinallyRunTimeExceptionExample {
+
+	public static void main(String[] args) {
+		String data1 = null;
+		String data2 = null;
+		
+		try {
+			data1 = args[0];
+			data2 = args[1];
+			
+		}catch (Exception e) {
+			e.printStackTrace();
+			return;
+		}
+
+	}
+
+}

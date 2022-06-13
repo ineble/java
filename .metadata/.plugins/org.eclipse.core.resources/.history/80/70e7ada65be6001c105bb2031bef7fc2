@@ -1,0 +1,5 @@
+package pra1;
+
+public class Calculator {
+	static double pi = 3.14159;
+}

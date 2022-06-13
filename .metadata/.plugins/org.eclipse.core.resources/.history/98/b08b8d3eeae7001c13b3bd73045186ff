@@ -1,0 +1,18 @@
+package y2022_06_09;
+
+public class Member {
+	public String id;
+
+	public Member(String id) {
+		this.id = id;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		
+		return false;
+	}
+	
+	
+	
+}

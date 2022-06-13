@@ -1,0 +1,20 @@
+package y2022_06_07;
+
+public class Example {
+
+	public static void main(String[] args) {
+		plus add= new plus();
+		System.out.println(add.x);
+		System.out.println(add.y);
+		plus add = new plus(1,2);
+		System.out.println(add.x);
+		System.out.println(add.y);
+		int result1 = add.plus(add.x, add.y);
+		
+		int result = add.plus(3, 4);
+		
+//		System.out.println(result1);
+//		System.out.println(result);
+	}
+
+}

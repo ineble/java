@@ -1,0 +1,20 @@
+package y2022_06_08;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int value = 0;
+		
+		value = value + 10;
+		System.out.println(value);
+		value = value - 10;
+		System.out.println(value);
+		value = value * 10;
+		System.out.println(value);
+		value = value / 10;
+		System.out.println(value);
+	}
+
+}

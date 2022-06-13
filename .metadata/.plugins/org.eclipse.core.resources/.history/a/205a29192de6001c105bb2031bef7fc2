@@ -1,0 +1,16 @@
+package class_practice1;
+
+public class CarExample {
+
+	public static void main(String[] args) {
+		Car car = new Car();
+		System.out.println("회사명 : " + car.company);
+		System.out.println("모델명 : " + car.model);
+		System.out.println("최고속도 : " + car.maxSpeed);
+		System.out.println("제작년도 : " + car.productionYear);
+		System.out.println("현재속도 : " + car.productionYear);
+		System.out.println("운행중 : " + car.engineStart);
+		
+
+	}
+}

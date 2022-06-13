@@ -1,0 +1,13 @@
+package y2022_06_08;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int score = 85;
+		
+		String result = (!(socre>90)?"가":"나");
+	}
+
+}

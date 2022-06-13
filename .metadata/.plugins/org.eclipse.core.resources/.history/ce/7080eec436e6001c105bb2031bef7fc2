@@ -1,0 +1,10 @@
+package class_practice1;
+
+public class CalExample {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+
+	}
+
+}

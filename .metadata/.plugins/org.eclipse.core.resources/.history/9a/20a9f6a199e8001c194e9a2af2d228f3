@@ -1,0 +1,14 @@
+package y2022_06_10;
+
+public class ClassExample {
+
+	public static void main(String[] args) throws  Exception{
+		// 1번째 방법
+		Class clazz = Car.calss;
+		
+		// 2번째 방법
+		//Class clazz = Class.forName("pra1.Car");
+
+	}
+
+}

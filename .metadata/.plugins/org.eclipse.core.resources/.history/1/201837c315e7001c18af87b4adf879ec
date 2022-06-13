@@ -1,0 +1,7 @@
+package y2022_06_08;
+
+public class A {
+	A(){
+		System.out.println("A 객체가 생생됨");
+	}
+}

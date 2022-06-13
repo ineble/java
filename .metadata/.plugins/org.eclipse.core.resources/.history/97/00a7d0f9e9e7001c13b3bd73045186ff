@@ -1,0 +1,8 @@
+package y2022_06_09;
+
+public class Member {
+	public String id;
+	
+	
+	
+}

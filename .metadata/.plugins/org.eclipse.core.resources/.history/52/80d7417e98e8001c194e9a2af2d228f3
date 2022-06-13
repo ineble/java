@@ -1,0 +1,10 @@
+package y2022_06_10;
+
+public class SystemTimeExample {
+
+	public static void main(String[] args) {
+		long time1 = System.nanoTime();
+
+	}
+
+}

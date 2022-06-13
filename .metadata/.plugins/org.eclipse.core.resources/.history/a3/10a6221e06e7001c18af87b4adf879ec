@@ -1,0 +1,20 @@
+package y2022_06_08;
+
+public class Car {
+	Tire frontLeftTire = new HankookTire();
+	Tire frontRightTire = new HankookTire();
+	Tire backtLeftTire = new HankookTire();
+	Tire backrightTire = new HankookTire();
+	
+	
+	void run() {
+		int count = 0;
+		frontLeftTire.roll();
+		frontRightTire.roll();
+		backtLeftTire.roll();
+		backrightTire.roll();
+		if(count == 4 ) {
+			System.out.println("오늘 다 굴렀습니다.");
+		}
+	}
+}

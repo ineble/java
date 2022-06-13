@@ -1,0 +1,15 @@
+package y2022_06_09;
+
+public class StringExample {
+
+	public static void main(java.lang.String[] args) {
+		String str = "abc";
+		String abc = "def";
+		System.out.println(str + abc);
+		String c = str.substring(2,3);
+		System.out.println(c);
+		String d = abc.substring(1,2);
+
+	}
+
+}

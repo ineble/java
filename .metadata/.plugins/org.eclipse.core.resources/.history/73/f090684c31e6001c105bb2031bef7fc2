@@ -1,0 +1,21 @@
+package class_practice1;
+
+import java.util.Scanner;
+
+public class CalculatorExample {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Calculator cal = new Calculator();
+		cal.powerOn();
+		while(true) {
+			int x = sc.nextInt();
+			int y = sc.nextInt();
+		}
+		
+		
+		cal.powerOff();
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package y2022_06_10;
+
+public class ClassExample {
+
+	public static void main(String[] args) throws Exception{
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package y2022_06_09;
+
+public class ThrowsExample {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

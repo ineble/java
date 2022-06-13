@@ -1,0 +1,26 @@
+package y2022_06_07;
+
+public class Television implements RemoteControl {
+	private int volume;
+
+	
+	public void turnOn() {
+	
+		
+	}
+
+	@Override
+	public void turnOff() {
+	
+		
+	}
+
+	@Override
+	public void setVolume(int volume) {
+
+	
+	}
+	
+	
+	
+}

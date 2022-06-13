@@ -1,0 +1,17 @@
+package y2022_06_08;
+
+public class DriverExample {
+
+	public static void main(String[] args) {
+		Driver driver = new Driver();
+		
+		//매개변수 자리에 넣기위하여 만든 객체
+		Bus bus = new Bus();
+		Taxi taxi = new Taxi();
+		
+		driver.drive(bus);
+		driver.drive(taxi);
+
+	}
+
+}

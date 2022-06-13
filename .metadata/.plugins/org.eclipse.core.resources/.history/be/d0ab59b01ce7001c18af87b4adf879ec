@@ -1,0 +1,6 @@
+package y2022_06_08.copy;
+
+public interface InterfaceB {
+	public void methodB();
+
+}

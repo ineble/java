@@ -1,0 +1,5 @@
+package pra1;
+
+public class Car2 {
+	int speed;
+}

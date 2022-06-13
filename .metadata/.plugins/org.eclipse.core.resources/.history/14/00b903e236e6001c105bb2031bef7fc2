@@ -1,0 +1,15 @@
+package class_practice1;
+
+import java.util.Scanner;
+
+public class CalExample {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Calculator cal = new Calculator();
+		
+		
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package y2022_06_08;
+
+public class Animal implements NonVehicle {
+	
+	
+	@Override
+	public void run() {
+		System.out.println("동물이 달립니다.");
+
+	}
+
+}

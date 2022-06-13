@@ -1,0 +1,8 @@
+package y2022_06_08;
+
+public class Car {
+	Tire frontLeftTIre = new HankookTire();
+	Tire frontRightTIre = new HankookTire();
+	Tire frontLeftTIre = new HankookTire();
+	Tire frontLeftTIre = new HankookTire();
+}

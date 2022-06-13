@@ -1,0 +1,6 @@
+package class_practice1;
+
+public class CalculatorExample {
+	Calculator cal = new Calculator();
+	
+}

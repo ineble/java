@@ -1,0 +1,10 @@
+package y2022_06_10;
+
+public class ValueCompareExample {
+
+	public static void main(String[] args) {
+		System.out.println("[-128~127 초과값일 경우]");
+
+	}
+
+}

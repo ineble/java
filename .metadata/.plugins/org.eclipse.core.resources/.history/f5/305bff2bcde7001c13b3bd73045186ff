@@ -1,0 +1,6 @@
+package y2022_06_09;
+
+public interface InterfaceC extends InterfaceA, InterfaceB {
+	public void methodC();
+	
+}

@@ -1,0 +1,11 @@
+package y2022_06_07;
+
+public class Cat {
+	
+	
+	
+	@Override
+	public void sound() {
+		System.out.println("야옹");
+	}
+}

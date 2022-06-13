@@ -1,0 +1,22 @@
+package practice;
+
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		int sc = 85;
+		if (sc<70) {
+			System.out.println("D");
+		} else if (sc < 80){
+			System.out.println("C");
+		} else if (sc < 90){
+			System.out.println("B");
+		}else {
+			System.out.println("A");
+		}
+		
+		
+		
+	}
+}
+

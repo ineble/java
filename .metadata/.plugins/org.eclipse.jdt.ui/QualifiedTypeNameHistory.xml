@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="y2022_06_07.Television"/>
-    <fullyQualifiedTypeName name="y2022_06_07.MyClass"/>
-    <fullyQualifiedTypeName name="y2022_06_07.Audio"/>
-    <fullyQualifiedTypeName name="pra1.Calculator"/>
-    <fullyQualifiedTypeName name="y2022_06_02_1.Singleton"/>
     <fullyQualifiedTypeName name="pra1.SingletonExample"/>
     <fullyQualifiedTypeName name="pra1.Singleton"/>
     <fullyQualifiedTypeName name="y2022_06_08.Tire"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="y2022_06_13.MathRandomExample"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="com.sun.media.sound.Toolkit"/>
+    <fullyQualifiedTypeName name="y2022_06_13.BeepTask"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="y2022_06_13.ThreadA"/>
 </qualifiedTypeNameHistroy>

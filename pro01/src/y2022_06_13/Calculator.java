@@ -7,7 +7,7 @@ public class Calculator {
 		return memory;
 	}
 
-	public void setMemory(int memory) {
+	public synchronized void setMemory(int memory) { //동기화 작업을 하면 자연스럽게 나온다.
 		this.memory = memory;
 		try {
 			Thread.sleep(2000);

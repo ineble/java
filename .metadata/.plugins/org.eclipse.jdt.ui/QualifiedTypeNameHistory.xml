@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="pra1.SingletonExample"/>
-    <fullyQualifiedTypeName name="pra1.Singleton"/>
-    <fullyQualifiedTypeName name="y2022_06_08.Tire"/>
-    <fullyQualifiedTypeName name="y2022_06_08.HankookTire"/>
-    <fullyQualifiedTypeName name="y2022_06_08.KumhoTire"/>
     <fullyQualifiedTypeName name="y2022_06_08.Driver"/>
     <fullyQualifiedTypeName name="y2022_06_08.Taxi"/>
     <fullyQualifiedTypeName name="y2022_06_08.VehicleExample"/>
@@ -43,7 +38,6 @@
     <fullyQualifiedTypeName name="pra1.Car"/>
     <fullyQualifiedTypeName name="y2022_06_10.ClassExample"/>
     <fullyQualifiedTypeName name="java.lang.Class"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.debugger.cdbg.ClosestSymbol"/>
@@ -51,7 +45,6 @@
     <fullyQualifiedTypeName name="java.lang.invoke.VarHandle.AccessMode"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="y2022_06_13.MathRandomExample"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
@@ -60,4 +53,11 @@
     <fullyQualifiedTypeName name="java.awt.Toolkit"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="y2022_06_13.ThreadA"/>
+    <fullyQualifiedTypeName name="y2022_06_13.User1"/>
+    <fullyQualifiedTypeName name="y2022_06_13.Calculator"/>
+    <fullyQualifiedTypeName name="y2022_06_13.PrintThread1"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.util.ClassUseMapper"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

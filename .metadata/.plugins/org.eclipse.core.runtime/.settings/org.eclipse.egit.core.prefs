@@ -2,4 +2,5 @@ GitRepositoriesView.GitDirectories=E\:\\songjiseop\\.git;
 GitRepositoriesView.GitDirectories.relative=.git;
 RepositoryGroups.uuids=
 RepositorySearchDialogSearchPath=E\:\\songjiseop\\git
+core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

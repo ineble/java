@@ -11,7 +11,7 @@ class WithWild<T extends Number>{
 			return true;
 		return false;
 	}
-	
+
 }
 
 

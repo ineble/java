@@ -1,6 +1,9 @@
 package y2022_06_14;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
 
 public class HashMapExample {
 
@@ -9,15 +12,17 @@ public class HashMapExample {
 		
 		
 		map.put("신용권",85);
-		map.put("홍길동",90);
+		map.put("홍길동",90); 
 		map.put("동장군",80);
-		map.put("홍길동",95);
+		map.put("홍길동",95); 
+	
 		System.out.println("총 Entry 수 : " + map.size());//아마도 3개
 		
-		System.out.println("\s홍길동 : " + map.get("홍길동"));//95
+		System.out.println("\t홍길동 : " + map.get("홍길동"));//95
 		System.out.println();
 		
-		Set<String> keySet = map.keySet();
+		Set<String> keySet = map.keySet(); //keyset은 키의 역순값을 집어넣는다.
+		// 동장군 신용권 홍길동 
 		Iterator<String> keyIterator = keySet.iterator();
 		while(keyIterator.hasNext()) {
 			String key = keyIterator.next();

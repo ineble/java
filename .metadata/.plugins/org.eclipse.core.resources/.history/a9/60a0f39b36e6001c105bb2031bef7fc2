@@ -1,7 +1,0 @@
-package class_practice1;
-
-public class Cal {
-	double areaRectanble(double width) {
-		
-	}
-}

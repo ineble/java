@@ -1,6 +1,0 @@
-package pra1;
-
-
-public class Singleton {
-	private static Singleton 
-}

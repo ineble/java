@@ -7,12 +7,15 @@ import java.io.Writer;
 public class WriteExample4 {
 
 	public static void main(String[] args) throws Exception {
-		Writer writer = new FileWriter("E:/Temp/test9.text");
+		Writer writer = new FileWriter("E:/Temp/test7.txt");
 		
-		char[] array = {'A','B','C','D','E'};
+		char a= 'A';
+		char b= 'B';
+		char c= 'C';
 		
-		writer.write(array,1,3);
-		
+		writer.write(a);
+		writer.write(b);
+		writer.write(c);
 		
 		writer.flush();
 		writer.close();

@@ -7,7 +7,7 @@ import java.io.Writer;
 public class WriteExample7 {
 
 	public static void main(String[] args) throws Exception {
-		Writer writer = new FileWriter("E:/Temp/test10.text");
+		Writer writer = new FileWriter("E:/Temp/test10.txt");
 		
 		String str = "ABC";
 		

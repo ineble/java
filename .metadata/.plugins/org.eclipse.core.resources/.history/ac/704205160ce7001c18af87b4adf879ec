@@ -1,7 +1,0 @@
-package y2022_06_08;
-
-public class Human extends Animal {
-	public void run() {
-		System.out.println("인간이 달립니다.");
-	}
-}
